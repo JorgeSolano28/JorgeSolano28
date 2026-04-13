@@ -22,9 +22,9 @@ information systems can be optimized through technology.
 ### 📊 Data & Analytics
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-Basic-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💻 Programming
 ![Java](https://img.shields.io/badge/Java-Basic-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,7 +32,6 @@ information systems can be optimized through technology.
 ![C++](https://img.shields.io/badge/C++-Basic-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🗄️ Databases & Networking
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
